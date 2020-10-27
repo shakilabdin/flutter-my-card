@@ -1,6 +1,6 @@
 # Mi Card
 
-![Mi Card](/images/product.png =250x)
+<img src="/images/product.png" alt="product" width="250"/>
 
 ## Our Goal
 
